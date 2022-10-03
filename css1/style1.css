@@ -1,0 +1,145 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: space-between;
+    font-family: 'Open Sans', sans-serif;
+}
+.logo img{
+width:400px;
+margin-top: 35px;
+margin-left: -15px;
+}
+
+.wrap {
+    display: flex;
+    justify-content: space-between;
+}
+
+header {
+    width: 150px;
+}
+
+main {
+    width: 47%;
+    margin-top: 35px;
+}
+.r{
+    background-color: rgb(255, 208, 52);
+    margin-top: 15px;
+    width: 600px;
+}
+.r2 {
+    background-color: rgb(255, 208, 52);
+    margin-top: 15px;
+    margin-right: 60px;
+    width: 600px;
+
+}
+.s2{
+    background-color: rgb(255, 208, 52);
+    margin-top: 15px;
+    margin-left: -17px;
+    margin-right: -47px;
+    width: 402px;
+    height: 263px;
+}
+
+.q2{
+    width: 100%;
+    height: 10px;
+    border: 1px solid gray;
+    transition: all 1s;
+    background-color: gray;
+    border-radius: 10px;
+}
+
+
+
+.q2:hover {
+    background: rgb(92, 114, 45);
+    width: 330px;
+}
+
+.p1:hover {
+    background: rgb(92, 114, 45);
+    width: 360px;
+}
+
+.p2:hover {
+    background: rgb(92, 114, 45);
+    width: 200px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.n1{
+    font-size: 100px;
+    font-family: 'Oswald', sans-serif;
+}
+.n2{
+    font-size: 100px;
+    font-family: 'Open Sans', sans-serif;
+}
+.n3{
+    font-size: 50px;
+    margin-top: 49px;
+    font-family: 'Oswald', sans-serif;
+}
+.n4{
+    margin-top: 20px;
+    font-size: 30px;
+    width: 600px;
+}
+.n5{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
+.n6{
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+}
+.n7{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 15px;
+}
+.n8{
+    font-size: 25px;
+}
+.n9{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
+.n10{
+    font-size: 25px;
+    margin-top: 15px;
+}
+.l1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
+.l2{
+    margin-top: 15px;
+    font-size: 25px;
+    margin-bottom: 5px;
+    font-family: 'Oswald', sans-serif;
+}
+.l3{
+    margin-top: 5px;
+    font-size: 25px;
+    margin-bottom: 5px;
+    font-family: 'Oswald', sans-serif;
+}
+.l4{
+    margin-top: 5px;
+    font-size: 25px;
+    margin-bottom: 5px;
+    font-family: 'Oswald', sans-serif;
+}
+.p3:hover{
+    background: rgb(92, 114, 45);
+    width: 300px;
+}
